@@ -11,7 +11,6 @@
 
 ### Estudando: 
   [![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
-  [![jquery](	https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)]()
   [![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
   
   ![Antonio Jonilei GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniojonilei&show_icons=true&theme=tokyonight)
